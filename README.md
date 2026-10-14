@@ -15,7 +15,7 @@ My goal is to build reliable, secure, and maintainable systems that solve real-w
 * Database Design & Data Integrity
 * Authentication, Authorization & Access Control
 * Multi-Tenant Business Applications
-* Infrastructure Engineering & Automation
+* Infrastructure & Automation
 * System Reliability, Security & Scalability
 
 ## 🛠️ Tech Stack
@@ -42,16 +42,7 @@ My goal is to build reliable, secure, and maintainable systems that solve real-w
 * Multi-Tenant Architecture
 * Business Logic & Data Validation
 
-**Infrastructure & Systems**
 
-* Linux & Command-Line Tools
-* Git & GitHub
-* Infrastructure Fundamentals
-* Deployment & Environment Configuration
-* Automation & CI/CD Fundamentals
-* System Monitoring & Troubleshooting
-
-**Currently strengthening:** Backend architecture, database performance, infrastructure automation, deployment workflows, and production systems.
 
 ## 🏗️ Learning & Building
 

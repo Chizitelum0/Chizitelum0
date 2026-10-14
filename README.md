@@ -96,27 +96,20 @@ A point-of-sale system focused on sales processing, inventory tracking, and busi
 
 ## ⚙️ Infrastructure Engineering
 
-I'm actively building my infrastructure engineering skills and working toward a deeper understanding of how software runs in real environments.
+> Infrastructure Backend Engineer — I build reliable transaction systems, not just APIs.
+> Focused on idempotent sales flows, inventory locking, and ACID-compliant architecture with Postgres & Supabase.
 
-Areas I'm exploring include:
-
-* Linux system administration
-* Networking and server fundamentals
-* Docker and containerization
-* CI/CD pipelines and deployment automation
-* Environment configuration and secrets management
-* Logging, monitoring, and troubleshooting
-* Database backups, recovery, and operational reliability
+Database backups, recovery, and operational reliability
 
 My goal is to understand not only how to build software, but also how to deploy, maintain, secure, and operate it reliably.
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME\&show_icons=true\&hide_border=true\&include_all_commits=true\&rank_icon=github)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chizitelum0\&show_icons=true\&hide_border=true\&include_all_commits=true\&rank_icon=github)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME\&layout=compact\&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chizitelum0\&layout=compact\&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME\&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=chizitelum0\&hide_border=true)
 
 *GitHub statistics are generated from your public GitHub activity and the configuration of each statistics service. Language percentages reflect repository code, not necessarily overall engineering proficiency.*
 

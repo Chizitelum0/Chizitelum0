@@ -2,133 +2,119 @@
 
 ### Software Engineer · Fintech Builder · Backend & Systems
 
-I build software around business operations, financial infrastructure, transaction systems, and scalable backend architectures.
+I build software around business operations, financial workflows, transaction systems, and backend architecture.
 
-Currently learning, building, and strengthening my skills in backend engineering, database architecture, API development, authentication, and infrastructure engineering.
+My engineering interests lie at the intersection of backend development, fintech, database architecture, and business software, with a growing focus on reliability, data integrity, and scalable infrastructure.
 
-My goal is to build reliable, secure, and maintainable systems that solve real-world business problems — particularly at the intersection of fintech, business software, and financial technology.
+I believe good software starts with understanding the problem, designing the right foundation, and building systems that remain reliable as they grow.
 
-## 🚀 Focus Areas
+## 🚀 Engineering Focus
 
-* Backend Engineering & API Architecture
-* Fintech & Transaction Systems
-* Database Design & Data Integrity
-* Authentication, Authorization & Access Control
-* Multi-Tenant Business Applications
-* Infrastructure & Automation
-* System Reliability, Security & Scalability
+- Backend Engineering & API Development
+- Fintech & Transaction Systems
+- Database Architecture & Data Integrity
+- Authentication, Authorization & Access Control
+- Multi-Tenant SaaS Architecture
+- Business Operations & Management Systems
+- Infrastructure, Deployment & System Reliability
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies & Tools
 
 **Languages**
-
-* Python
-* JavaScript
-* TypeScript
-* Go
-
-**Databases & Data Platforms**
-
-* PostgreSQL
-* MongoDB
-* Supabase
+- JavaScript
+- TypeScript
+- Python — Exploring
+- Go — Exploring
 
 **Backend & Application Development**
+- Node.js
+- Express.js
+- React
+- REST APIs
+- Authentication & Authorization
+- Business Logic & Data Validation
 
-* REST API Design
-* Authentication & Authorization
-* Database Modeling
-* Transaction Processing
-* Multi-Tenant Architecture
-* Business Logic & Data Validation
+**Databases & Data Platforms**
+- PostgreSQL
+- Supabase
+- MongoDB — Previous project experience
 
+**Tools & Infrastructure**
+- Git & GitHub
+- Render
+- Cloud deployment and application hosting
 
-
-## 🏗️ Learning & Building
-
-I believe the best way to become a stronger engineer is to build real systems, understand the underlying architecture, and improve through practical experience.
-
-My current learning and building journey focuses on:
-
-* Designing maintainable backend services and APIs.
-* Building secure authentication and permission systems.
-* Modeling relational and document-based data.
-* Understanding transactions, consistency, and data integrity.
-* Developing deployment and infrastructure management skills.
-* Learning how to operate reliable applications beyond the development environment.
-
-## 💻 Featured Projects
+## 🏗️ What I'm Building
 
 ### Business Management Platform
 
-A multi-tenant business management system designed to support day-to-day business operations across multiple branches.
+My primary long-term software project: an operations-first business management platform designed to help businesses manage their daily operations.
 
-**Areas of focus**
+Areas of focus:
+- Business and branch management
+- Inventory and stock control
+- Supplier and purchasing management
+- Staff management and permissions
+- Sales and operational workflows
+- Subscription and access management
+- Secure backend architecture
 
-* Business and branch management
-* Users, roles, and permissions
-* Inventory and stock management
-* Sales and operational workflows
-* Secure, API-driven architecture
+### POS Transaction App
 
-### POS & Transaction Platform
+A practical engineering project focused on understanding and implementing point-of-sale workflows.
 
-A point-of-sale system focused on sales processing, inventory tracking, and business transaction management.
+Areas of focus:
+- Product and inventory management
+- Checkout and transaction processing
+- Authentication and role-based access
+- Sales reporting
+- Backend API integration
 
-**Areas of focus**
+[Explore POS Transaction App](https://github.com/Chizitelum0/POS-Transaction-App)
 
-* Product and inventory management
-* Checkout and transaction processing
-* Stock updates after sales
-* Authentication and access control
-* Reporting and API integration
+## 📚 Currently Learning
 
-*These projects represent my current engineering focus. Explore my repositories for implementation details and project progress.*
-
-## ⚙️ Infrastructure Engineering
-
-> Infrastructure Backend Engineer — I build reliable transaction systems, not just APIs.
-> Focused on idempotent sales flows, inventory locking, and ACID-compliant architecture with Postgres & Supabase.
-
-Database backups, recovery, and operational reliability
-
-My goal is to understand not only how to build software, but also how to deploy, maintain, secure, and operate it reliably.
+- TypeScript and JavaScript
+- Backend architecture and API design
+- Database modeling and SQL
+- Authentication and authorization
+- Transactions and data consistency
+- System design fundamentals
+- Deployment and infrastructure management
+- Testing and software reliability
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chizitelum0\&show_icons=true\&hide_border=true\&include_all_commits=true\&rank_icon=github)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chizitelum0&show_icons=true&hide_border=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chizitelum0\&layout=compact\&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chizitelum0&layout=compact&hide_border=true&langs_count=6)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=chizitelum0\&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Chizitelum0&hide_border=true)
 
-*GitHub statistics are generated from your public GitHub activity and the configuration of each statistics service. Language percentages reflect repository code, not necessarily overall engineering proficiency.*
+## ⚙️ Infrastructure & Systems Engineering
+
+Exploring:
+- Database backups and recovery
+- Transaction integrity and consistency
+- API security
+- Application deployment
+- Multi-tenant data isolation
+- System monitoring and reliability
+- Scalable backend architecture
 
 ## 🧠 Engineering Principles
 
-* **Architecture first.** Understand the system before building it.
-* **Correctness over complexity.** Prefer predictable, maintainable solutions.
-* **Data integrity matters.** Design systems that protect the consistency of critical information.
-* **Security by design.** Treat authentication, authorization, and sensitive data with care.
-* **Build for real-world use.** Consider failure scenarios, operational needs, and long-term maintenance.
-* **Learn by building.** Turn concepts into working software and improve through iteration.
+Architecture first. Correctness over complexity. Data integrity. Security by design. Build for real-world use. Learn by building.
 
 ## 🤝 Open Source & Collaboration
 
-I'm open to contributing to open-source projects and collaborating with developers working on:
+Interested in contributing to projects involving:
+- Backend engineering and APIs
+- Fintech and transaction infrastructure
+- PostgreSQL and database tooling
+- Business management software
+- Infrastructure and developer tools
 
-* Backend engineering and API development
-* Fintech and transaction infrastructure
-* PostgreSQL, MongoDB, and database tooling
-* Business management and financial software
-* Infrastructure automation and developer tools
-
-I'm always interested in learning from experienced engineers, sharing ideas, and contributing to useful software.
-
-## 🎯 My Direction
-
-I'm working toward becoming a stronger backend and systems engineer, with a focus on building dependable software for businesses and financial technology.
-
-I want to understand the full engineering lifecycle — from data modeling and API design to infrastructure, deployment, reliability, and maintenance.
+---
 
 **Build the foundation correctly. Then build on it.**

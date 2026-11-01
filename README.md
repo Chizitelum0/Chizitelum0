@@ -86,24 +86,15 @@ Areas of focus:
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Chizitelum0&show_icons=true&include_all_commits=true&hide_border=true&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"
-    alt="GitHub Statistics"
-  />
+  <img src="https://github-stats-extended.vercel.app/api?username=Chizitelum0&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub Statistics" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chizitelum0&layout=compact&langs_count=6&hide_border=true&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"
-    alt="Most Used Languages"
-  />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Chizitelum0&layout=compact&langs_count=6&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=Chizitelum0&theme=dark&hide_border=true&background=0D1117"
-    alt="GitHub Contribution Streak"
-  />
+  <img src="https://streak-stats.demolab.com/?user=Chizitelum0&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </p>
 
 

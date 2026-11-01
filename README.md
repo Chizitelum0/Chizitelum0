@@ -85,9 +85,6 @@ Areas of focus:
 
 ## 📊 GitHub Statistics
 
-
-## 📊 GitHub Statistics
-
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=Chizitelum0&show_icons=true&include_all_commits=true&hide_border=true&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"
